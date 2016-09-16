@@ -164,3 +164,10 @@ Redis::psubscribe(['users.*'], function($message, $channel) {
     echo $message;
 });
 ```
+
+## 译者署名
+| 用户名 | 头像 | 职能 | 签名 |
+|---|---|---|---|
+| [@buer](https://github.com/buer0)  | <img class="avatar-66 rm-style" src="https://avatars3.githubusercontent.com/u/22141008?v=3&u=f14a9d540240e1d39079dc1319eb146a91aabfa8&s=140">  | 翻译 | [你今天吃药了吗？](http://www.cxdog.com) |
+| [@silvercell](https://github.com/silvercell)  | <img class="avatar-66 rm-style" src="https://avatars2.githubusercontent.com/u/20363459?v=3&u=2234d736aa27209a2e986d4d789f95c6d110aa0c&s=140">  |  翻译  | [已放弃治疗！](http://www.cxdog.com) |
+
